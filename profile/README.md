@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Computational-Multiphase-Physics&label=Profile%20views&color=orange&style=for-the-badge" alt="Computational-Multiphase-Physics" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=comphy-lab&label=Profile%20views&color=orange&style=for-the-badge" alt="CoMPhy-lab" /> </p>
 <!--
 
 **Here are some ideas to get you started:**
