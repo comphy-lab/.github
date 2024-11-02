@@ -1,5 +1,3 @@
-# Computational Multiphase Physics (CoMPhy) Lab 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=comphy-lab&label=Profile%20views&color=orange&style=for-the-badge" alt="CoMPhy-lab" /> </p>
 
 <div align="center">
