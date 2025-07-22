@@ -207,7 +207,6 @@ We are a computational physics research group based at the **Department of Physi
 
 ## 🌟 Get Involved
 
-<div align="center">
 
 ### 🔬 **Open Science Commitment**
 
@@ -221,8 +220,6 @@ We believe in open and reproducible science. All our computational tools and dat
 - 📚 **Use Our Tools**: All our software is open-source and documented
 
 ### 📬 **Contact Us**
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-vatsalsy%40comphy--lab.org-red?style=for-the-badge&logo=gmail)](mailto:vatsalsy@comphy-lab.org)
 [![Website](https://img.shields.io/badge/Visit_Our_Website-blue?style=for-the-badge&logo=google-chrome)](https://comphy-lab.org)
