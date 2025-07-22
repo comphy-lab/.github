@@ -227,8 +227,6 @@ We believe in open and reproducible science. All our computational tools and dat
 
 </div>
 
-</div>
-
 ---
 
 <div align="center">
