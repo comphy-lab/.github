@@ -145,7 +145,7 @@ We are a computational physics research group based at the **Department of Physi
 
 </div>
 
-### 📚 Recent Publications
+### 📚 Recent s
 
 <details>
 <summary>Click to expand recent publications</summary>
@@ -154,7 +154,7 @@ We are a computational physics research group based at the **Department of Physi
 2. **Non-Newtonian effects in droplet impact** - *Physical Review Fluids* (2024)
 3. **Singularity formation in viscoelastic fluids** - *Soft Matter* (2023)
 
-[View all publications →](https://comphy-lab.org/publications)
+[View all publications →](https://comphy-lab.org/research)
 
 </details>
 
