@@ -191,6 +191,19 @@ We are a computational physics research group based at the **Department of Physi
 
 ---
 
+## 📰 Recent Activity
+
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?owner_id=114741869&limit=10" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?owner_id=114741869&limit=10&image_size=4x6&color_scheme=dark" width="80%" height="auto">
+      <img alt="Recent Active Contributors" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?owner_id=114741869&limit=10&image_size=4x6&color_scheme=light" width="80%" height="auto">
+    </picture>
+  </a>
+</div>
+
+---
+
 ## 🌟 Get Involved
 
 ### 🔬 **Open Science Commitment**
