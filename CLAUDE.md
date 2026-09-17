@@ -1,55 +1,45 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for agents working in this repository.
 
-## Repository Purpose
+## Repository purpose
 
-This is the special `.github` repository for the CoMPhy-Lab (Computational Multiphase Physics Lab) GitHub organization. The repository serves as:
-- Organization profile that appears on the main GitHub organization page
-- Container for organization-wide GitHub configurations and templates
+Special `.github` repository for the CoMPhy Lab (Computational Multiphase Physics Lab) GitHub organization. It holds:
 
-## Repository Structure
+- The organization profile shown on [github.com/comphy-lab](https://github.com/comphy-lab)
+- Organization-wide GitHub configuration when added later
+
+## Layout
 
 ```
-.github/
-├── profile/
-│   └── README.md    # Organization profile displayed on github.com/comphy-lab
-└── README.md        # Repository documentation
+profile/
+  README.md    # Organization profile (public-facing)
+README.md      # This repo's short description
+CLAUDE.md      # Agent guidance
 ```
 
-## Key Files
+## Organization profile (`profile/README.md`)
 
-### profile/README.md
-The main organization profile that displays:
-- Development workflow statistics (pull requests, commits, issues)
-- Community participation metrics
-- Activity visualizations using OSS Insight widgets
+Tone: scholarly lab voice. Dense, informative, low clutter. Prefer plain markdown links and short prose over badge walls, emoji headers, profile-view counters, and auto-generated activity widgets.
 
-## Development Guidelines
+Keep these elements when editing:
 
-### Editing the Organization Profile
-- The organization profile is located at `profile/README.md`
-- Changes to this file will be reflected on the CoMPhy-Lab GitHub organization page
-- The profile uses OSS Insight widgets for dynamic statistics visualization
+- Lab name and one crisp mission paragraph
+- Research themes as short prose or a tight list
+- Compact primary links (website, people, research, contact, key socials)
+- Affiliation/location in one line
+- Optional curated featured-repos table with real `comphy-lab` public repos
+- The `<!-- RECENT_PUBLICATIONS_START -->` / `<!-- RECENT_PUBLICATIONS_END -->` block (synced from the lab website)
 
-### Widget Configuration
-The profile uses OSS Insight widgets with:
-- Organization ID: 114741869
-- Time period: past_12_months
-- Both light and dark theme support using `<picture>` elements
+Do not reintroduce:
 
-### Common Tasks
+- Large `for-the-badge` / shields.io grids for themes, languages, or frameworks
+- OSS Insight or similar metric-widget walls
+- Profile-view counters
+- Decorative emoji section headers
+- Placeholder “featured projects” that link only to the org root
 
-To update organization statistics displays:
-1. Edit `profile/README.md`
-2. Widgets auto-update based on the configured time period
+## Notes
 
-To modify organization profile appearance:
-1. Edit the markdown content in `profile/README.md`
-2. Preview changes before committing
-
-## Important Notes
-
-- This repository does not contain code or require building/testing
-- Changes to `profile/README.md` directly affect the organization's public profile
-- The repository uses standard markdown with HTML elements for advanced formatting
+- No build or test suite in this repository
+- Edits to `profile/README.md` appear on the public organization page after merge
