@@ -4,7 +4,7 @@
 
 We study non-Newtonian free-surface flows and soft-matter singularities. The group sits at the intersection of applied mathematics, fluid mechanics, and direct numerical simulation, and develops open-source codes and theory for soft-matter phenomena across length and time scales.
 
-[Website](https://comphy-lab.org) · [People](https://comphy-lab.org/team/) · [Research](https://comphy-lab.org/research) · [Opportunities](https://comphy-lab.org/join/) · [Email](mailto:vatsal.sanjay@comphy-lab.org) · [YouTube](https://www.youtube.com/@CoMPhyLab) · [Bluesky](https://bsky.app/profile/comphy-lab.org) · [X](https://twitter.com/VatsalSanjay)
+[Website](https://comphy-lab.org) · [People](https://comphy-lab.org/team) · [Research](https://comphy-lab.org/research) · [Opportunities](https://comphy-lab.org/join) · [Email](mailto:vatsal.sanjay@comphy-lab.org) · [YouTube](https://www.youtube.com/@CoMPhyLab) · [Bluesky](https://bsky.app/profile/comphy-lab.org) · [X](https://twitter.com/VatsalSanjay)
 
 ## Research themes
 
@@ -42,6 +42,6 @@ Current interests include mycofluidic transport, non-Newtonian effects on hydrod
 
 Open science is the default: simulation codes and analysis for papers live in public repositories under this organization.
 
-- Positions and projects: [comphy-lab.org/join/](https://comphy-lab.org/join/)
+- Positions and projects: [comphy-lab.org/join](https://comphy-lab.org/join)
 - PI: [Vatsal Sanjay](https://www.durham.ac.uk/staff/vatsal-sanjay/) · [vatsal.sanjay@comphy-lab.org](mailto:vatsal.sanjay@comphy-lab.org)
 - Discussions: [github.com/orgs/comphy-lab/discussions](https://github.com/orgs/comphy-lab/discussions)
